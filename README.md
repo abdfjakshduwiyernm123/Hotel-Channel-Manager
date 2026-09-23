@@ -1,1 +1,1 @@
-# This project is currently underdevelopment and is not useable in its current state. This project should be useable by around a months time.
+# This project is currently underdevelopment and is not usable in its current state. This project should be in a usable state by around a months time.

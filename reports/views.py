@@ -38,7 +38,7 @@ class Views:
         )
         if owners:
             return HttpResponse(
-                f"GOP = {gop} || Fase Fee = {base_fee} || Incentive Fee  = {incentive_fee} || Remaining = {remaining}"
+                f"GOP = {gop} || Base Fee = {base_fee} || Incentive Fee  = {incentive_fee} || Remaining = {remaining}"
             )
         else:
             return render(request, "reports/access_denied_owner.html")
